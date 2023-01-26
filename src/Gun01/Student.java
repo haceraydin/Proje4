@@ -8,7 +8,9 @@ public class Student {
 
         System.out.println("task 2 yapildi");
 
-        System.out.println("tekrar merhaba ");
+        System.out.println("tekrar merhaba");
+
+        System.out.println("merhaba 3");
 
     }
 
